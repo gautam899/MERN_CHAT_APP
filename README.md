@@ -23,10 +23,24 @@
 # How to Start using the project.
 
 ## Clone the above Repository.
+1. Run the following command in the GitHub without the quotes: "git clone https://github.com/gautam899/MERN_CHAT_APP.git"
 
+## Env Variables
+Create a .env file and add the following lines
 
+PORT=5000
+MONGO_URL=<URL>
+JWT_SECRET:<Secret>
+NODE_ENV=development
 
-
+## Installing the dependencies.
+1. Go to the root directory and run the following commands in order.
+   npm install
+   cd frontend
+   npm install
+## Run the project
+1. For the backend only: npm start
+2. For the frontend only: npm start
 
 ![image](https://github.com/gautam899/MERN_CHAT_APP/assets/124019261/d4b5ca00-7e3b-4e54-a617-db92633a00fc)
 
