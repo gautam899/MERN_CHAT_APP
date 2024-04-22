@@ -27,11 +27,10 @@
 
 ## Env Variables
 Create a .env file and add the following lines
-
-a.PORT=5000
-b.MONGO_URL=<URL>
-c.JWT_SECRET:<Secret>
-d.NODE_ENV=development
+1. PORT=5000
+2. MONGO_URL=<URL>
+3. JWT_SECRET:<Secret>
+4. NODE_ENV=development
 
 
 ## Installing the dependencies.
