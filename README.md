@@ -28,10 +28,11 @@
 ## Env Variables
 Create a .env file and add the following lines
 
-PORT=5000
-MONGO_URL=<URL>
-JWT_SECRET:<Secret>
-NODE_ENV=development
+a.PORT=5000
+b.MONGO_URL=<URL>
+c.JWT_SECRET:<Secret>
+d.NODE_ENV=development
+
 
 ## Installing the dependencies.
 1. Go to the root directory and run the following commands in order.
