@@ -12,11 +12,17 @@
 9. This project is still a work in progress I am working on the online and offline feature and a read and unread feature. Will update the repo when done.
 
 
+## Tech Stack Used
+1. MongoDB-> For database
+2. Express
+3. React
+4. Socket.io-> Real-time Communication
+5. Chakra-UI
 
 
+# How to Start using the project.
 
-
-
+## Clone the above Repository.
 
 
 
