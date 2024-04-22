@@ -1,6 +1,15 @@
-## Mern Chat Application with one-on-one and group chat functionality
+# Mern Chat Application with one-on-one and group chat functionality
 
-# Features
+## Features
+1. This is a Simple Full Stack Chat application.
+2. All the user details, group chat, and conversations are stored in the MongoDB.
+3. A login/Signup feature a added to this project.
+4. Guest User login is also added.
+5. Profile image uploading feature during the signup is also added. I have used Cloudinary to implement that feature.
+6. The real-time communication is supported using the socket.io.
+7. Real-time typing animation is supported. This means you will know that a user is typing something into the input field from the other side.
+8. All the conversations are stored in the database i.e. if the user log in again after logging out the conversation will still be there.
+9. This project is still a work in progress I am working on the online and offline feature and a read and unread feature. Will update the repo when done.
 
 
 
