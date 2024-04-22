@@ -34,10 +34,10 @@ Create a .env file and add the following lines
 
 
 ## Installing the dependencies.
-1. Go to the root directory and run the following commands in order.
-   a. npm install
-   b. cd frontend
-   c. npm install
+Go to the root directory and run the following commands in order.
+1. npm install
+2.  cd frontend
+3.  npm install
 ## Run the project
 1. For the backend only: npm start
 2. For the frontend only: npm start
